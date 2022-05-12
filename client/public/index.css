@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+  box-sizing: border-box;
+}
+
+input {
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
